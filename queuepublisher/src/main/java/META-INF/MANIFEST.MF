@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.brunomilitzer.rabbitmq.Consumer
+Class-Path: slf4j-api-1.7.30.jar amqp-client-5.12.0.jar
+
