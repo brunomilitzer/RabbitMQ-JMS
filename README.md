@@ -4,8 +4,9 @@
 
 **_Projects_**
 
-1. [Queue Publisher](https://github.com/brunomilitzer/RabbitMQ-JMS/tree/main/queuepublisher)
-2. [Spring Boot](https://github.com/brunomilitzer/RabbitMQ-JMS/tree/main/RabbitMQ)
+1. [Queue Publisher](https://github.com/brunomilitzer/RabbitMQ-JMS/tree/main/QueuePublisher)
+2. [Spring Boot](https://github.com/brunomilitzer/RabbitMQ-JMS/tree/main/RabbitMQSpringBoot)
+3. [Spring Boot](https://github.com/brunomilitzer/RabbitMQ-JMS/tree/main/RabbitMQSpringMVC)
 
 Profiles Demo
 
