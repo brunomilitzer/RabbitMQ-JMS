@@ -6,7 +6,7 @@
 
 1. [Queue Publisher](https://github.com/brunomilitzer/RabbitMQ-JMS/tree/main/QueuePublisher)
 2. [Spring Boot](https://github.com/brunomilitzer/RabbitMQ-JMS/tree/main/RabbitMQSpringBoot)
-3. [Spring Boot](https://github.com/brunomilitzer/RabbitMQ-JMS/tree/main/RabbitMQSpringMVC)
+3. [Spring MVC](https://github.com/brunomilitzer/RabbitMQ-JMS/tree/main/RabbitMQSpringMVC)
 
 Profiles Demo
 
